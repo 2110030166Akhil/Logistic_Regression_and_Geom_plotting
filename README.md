@@ -1,5 +1,3 @@
-# README
-
 ## Overview
 This README file provides an explanation of the R script used for analyzing heart disease data. The script performs data loading, visualization, and a logistic regression analysis to understand the relationship between various attributes and the condition of heart disease.
 
